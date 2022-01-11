@@ -14,8 +14,4 @@ public class Main {
         calc.println.accept(d);
         calc.println.accept(e);
     }
-
-    public void test()  {
-        System.out.println("test");
-    }
 }
